@@ -1,0 +1,54 @@
+/* Heebo-400 */
+@font-face {
+  font-family: 'Heebo';
+  src: url('../Fonts/heebo/Heebo-Regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../Fonts/heebo/Heebo-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../Fonts/heebo/Heebo-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../Fonts/heebo/Heebo-Regular.woff') format('woff'), /* Modern Browsers */
+       url('../Fonts/heebo/Heebo-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../Fonts/heebo/Heebo-Regular.svg#Roboto') format('svg'); /* Legacy iOS */
+       font-style: normal;
+       font-weight: 400;
+     }
+
+/* Heebo-500 */
+@font-face {
+    font-family: 'Heebo';
+    src: url('../Fonts/heebo/Heebo-Medium.eot'); /* IE9 Compat Modes */
+    src: local(''),
+          url('../Fonts/heebo/Heebo-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('../Fonts/heebo/Heebo-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+          url('../Fonts/heebo/Heebo-Medium.woff') format('woff'), /* Modern Browsers */
+          url('../Fonts/heebo/Heebo-Medium.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('../Fonts/heebo/Heebo-Medium.svg#Roboto') format('svg'); /* Legacy iOS */
+          font-style: normal;
+          font-weight: 500;
+        }
+
+/* Heebo-700 */
+@font-face {
+    font-family: 'Heebo';
+    src: url('../Fonts/heebo/Heebo-Bold.eot'); /* IE9 Compat Modes */
+    src: local(''),
+        url('../Fonts/heebo/Heebo-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../Fonts/heebo/Heebo-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../Fonts/heebo/Heebo-Bold.woff') format('woff'), /* Modern Browsers */
+        url('../Fonts/heebo/Heebo-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('../Fonts/heebo/Heebo-Bold.svg#Roboto') format('svg'); /* Legacy iOS */
+        font-style: normal;
+        font-weight: 700;
+     }
+
+     @font-face {
+      font-family: 'Heebo';
+      src: url('../Fonts/heebo/Heebo-Black.eot'); /* IE9 Compat Modes */
+      src: local(''),
+          url('../Fonts/heebo/Heebo-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+          url('../Fonts/heebo/Heebo-Black.woff2') format('woff2'), /* Super Modern Browsers */
+          url('../Fonts/heebo/Heebo-Black.woff') format('woff'), /* Modern Browsers */
+          url('../Fonts/heebo/Heebo-Black.ttf') format('truetype'), /* Safari, Android, iOS */
+          url('../Fonts/heebo/Heebo-Black.svg#Roboto') format('svg'); /* Legacy iOS */
+          font-style: normal;
+          font-weight: 900;
+       }
